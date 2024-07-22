@@ -13,6 +13,8 @@
 
 This text is ***really important***.
 
+![Baklava](recipe.png)
+
 ### This is a REMOTE change :O
 # Traditional Baklava Recipe
 line 2 changed remotely
